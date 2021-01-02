@@ -1,0 +1,9 @@
+diwa=0
+while diwa<50:
+    if diwa ==1:
+        break
+    
+    else:
+        print(diwa)
+    diwa=diwa+1
+print("beyond the limit")
